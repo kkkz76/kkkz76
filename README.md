@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Khant Ko Ko Zaw (Mario)<br><br>I’m a freelance software developer who codes for fun and for real-world impact.<br>I build stuff that works — websites, apps, games, you name it.<br><br>🛠️ Always exploring new tech.  <br>🎮 Gaming in my downtime — add me on Steam if you're into that!  <br>🌐 Check out my work: [k3zfolio.vercel.app](https://k3zfolio.vercel.app/)<br><br>Let's build something cool 🚀<br>
+Hey there! 👋 I'm Khant Ko Ko Zaw (Mario)<br><br>I’m a freelance software developer who codes for fun and for real-world impact.<br>I build stuff that works — websites, apps, games, you name it.<br><br>🛠️ Always exploring new tech.  <br>🎮 Gaming in my downtime — add me on Steam (158427940) if you're into that!  <br>🌐 Check out my work: [k3zfolio.vercel.app](https://k3zfolio.vercel.app/)<br><br>Let's build something cool 🚀<br>
 
 
 ## 🌐 Socials:
